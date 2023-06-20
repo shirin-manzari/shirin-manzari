@@ -4,3 +4,5 @@ I do a little bit of everything.
 - I'm a Software-Engineer 👩🏻‍💻, who develops web applications.
 - I'm a Content creator who writes ✍🏻 and produces videos 🎥 about tech & games.
 - I'm a frog 🐸 who plays video games 🎮 professionally.
+ <!---- - I'm soon to be a master's student in Software engineering. --->
+
